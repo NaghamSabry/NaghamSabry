@@ -12,7 +12,7 @@
 ---
 
 ### 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/nagham-sabry-b32b90286)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([www.linkedin.com/in/nagham-sabry-b32b90286](https://www.linkedin.com/in/nagham-sabry-b32b90286?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
 [![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Nagham.S11)  
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/share/1AGgeKbUAR/)  
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/nagham_sabri_111?igsh=MXJmeGs1aXYzdnVjZQ==)
